@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "*.spaceproxy.net",
   "*.ua",
   "*.cub.red",
   "*.tmdb.org",
