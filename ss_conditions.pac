@@ -1,4 +1,6 @@
 var __BLOCKEDSITES__ = [
+  "*.tuta.io",
+  "*.tuta.com",
   "*.ubnt.com",
   "*.ui.com",
   "*.spaceproxy.net",
