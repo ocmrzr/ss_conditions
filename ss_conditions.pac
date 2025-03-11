@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "*.lmstudio.ai",
   "*.tuta.io",
   "*.tuta.com",
   "*.ubnt.com",
