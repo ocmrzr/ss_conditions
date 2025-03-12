@@ -1,4 +1,7 @@
 var __BLOCKEDSITES__ = [
+  "*ubi.com",
+  "*ubisoft.com",
+  "*ubisoftconnect.com",
   "*.ohmyposh.dev",
   "*.lmstudio.ai",
   "*.tuta.io",
