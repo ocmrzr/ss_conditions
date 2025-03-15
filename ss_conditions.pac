@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "*.xbox.com",
   "*.windhawk.net",
   "*.ubi.com",
   "*.ubisoft.com",
