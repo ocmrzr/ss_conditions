@@ -1,4 +1,10 @@
 var __BLOCKEDSITES__ = [
+  "*.github.com",
+  "*.coder.com",
+  "*.exp-tas.com",
+  "*.githubusercontent.com",
+  "*.azure.com",
+  "*.microsoft.com",
   "*.xbox.com",
   "*.windhawk.net",
   "*.ubi.com",
