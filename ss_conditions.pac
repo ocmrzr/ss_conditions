@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "*.exodusgame.com",
   "*.githubcopilot.com",
   "*.github.com",
   "*.coder.com",
