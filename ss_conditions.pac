@@ -1,4 +1,9 @@
 var __BLOCKEDSITES__ = [
+  "api.github.com",
+  "copilot-proxy.githubusercontent.com",
+  "api.business.githubcopilot.com",
+  "api.githubcopilot.com",
+  "origin-tracker.githubusercontent.com",
   "*.exodusgame.com",
   "*.githubcopilot.com",
   "*.github.com",
