@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "*.groq.com",
   "api.github.com",
   "copilot-proxy.githubusercontent.com",
   "api.business.githubcopilot.com",
