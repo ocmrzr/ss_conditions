@@ -1,4 +1,17 @@
 var __BLOCKEDSITES__ = [
+
+  "*.figma.com",
+  "*.figma.net",
+  "*.figmausercontent.com",
+  "*.s3.amazonaws.com",
+  "*.fonts.googleapis.com",
+  "*.fonts.gstatic.com",
+  "*.zendesk.com",
+  "*.statuspage.io",
+  "*.mkto-sj310059.com",
+  "*.arkoselabs.com",
+  "*.hosted-by-discourse.com",
+  "*.saas.atlassian.com",
   "*.groq.com",
   "api.github.com",
   "copilot-proxy.githubusercontent.com",
