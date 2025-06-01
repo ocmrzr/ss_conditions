@@ -1,5 +1,7 @@
 var __BLOCKEDSITES__ = [
 
+  "*.bmwtis.info",
+  "*.bmwgroup.com",
   "*.newtis.info",
   "*.figma.com",
   "*.figma.net",
