@@ -1,5 +1,6 @@
 var __BLOCKEDSITES__ = [
-
+  
+  "*.comfy.org",
   "*.bmwtis.info",
   "*.bmwgroup.com",
   "*.newtis.info",
