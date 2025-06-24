@@ -1,5 +1,11 @@
 var __BLOCKEDSITES__ = [
-  
+  "*.google.com",
+  "*.googleapis.com",
+  "*.gstatic.com",
+  "*.googleusercontent.com",
+  "*.youtube.com",
+  "*.ytimg.com",
+  "*.googlevideo.com",
   "*.comfy.org",
   "*.bmwtis.info",
   "*.bmwgroup.com",
