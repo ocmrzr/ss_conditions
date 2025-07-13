@@ -8,7 +8,7 @@ var __BLOCKEDSITES__ = [
   "pbs.twimg.com",
   "t.co",
   "*.cloudfront.net",
-  "*.amazonaws.com"
+  "*.amazonaws.com",
   "*.google.com",
   "*.googleapis.com",
   "*.gstatic.com",
