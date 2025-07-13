@@ -1,4 +1,14 @@
 var __BLOCKEDSITES__ = [
+  "grok.com",
+  "x.com",
+  "api.grok.com",
+  "api.x.com",
+  "cdn.x.com",
+  "abs.twimg.com",
+  "pbs.twimg.com",
+  "t.co",
+  "*.cloudfront.net",
+  "*.amazonaws.com"
   "*.google.com",
   "*.googleapis.com",
   "*.gstatic.com",
